@@ -1,0 +1,122 @@
+
+
+#move{
+	position: fixed;
+	top: 690px;
+	left: 90% ;
+	 padding:0;
+    margin: 5px auto;
+    border: 1px solid #fff;
+   ;
+}
+
+
+h1{  
+	 font-family: 'Amatic SC', cursive;
+	color: #1c56b2;
+	font-size: 35px;
+	padding: 20px;
+    width: 100%;
+    padding:100;
+    margin: 85px auto;
+    border: 0px solid #fff;
+    background: #c4effc;
+    text-align: center;
+
+	;
+
+ }
+
+h2{  
+	 font-family: 'Amatic SC', cursive;
+	color: #1c56b2;
+	font-size: 40px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	}
+nav{ 
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+li{font-family: 'Amatic SC', cursive;
+font-size: 30px;
+}
+h3 {  
+	 font-family: 'Amatic SC', cursive;
+	
+	font-size: 28px;
+}
+
+p{font-family: 'Exo', sans-serif;
+}
+
+table {font-family: 'Amatic SC', cursive;
+font-size: 25px; 
+}
+footer{font-family: 'Amatic SC', cursive;
+font-size: 20px;
+
+}
+
+
+#perfilpadre{
+
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+#perfil-texto {
+	background-color: #3f89ff;
+padding-top: 30px;
+display: flex;
+flex-direction: column;
+order: 2;
+flex:2
+}
+#perfil-imagen {
+	padding: 20px;
+display: flex;
+flex-direction: column;
+order: 1;
+flex:1
+}
+
+
+#proyectospadre{
+
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+
+#dostexto {
+	background-color: #3f89ff;
+padding-top: 30px;
+display: flex;
+order: 1;
+flex:1
+}
+#dostabla {
+	padding: 20px;
+display: flex;
+order: 2;
+flex:3
+}
+
+#dosimagen {
+	padding: 20px;
+display: flex;
+order: 3;
+flex:1
+}
+
+
+
+
+font-family: 'Amatic SC', cursive;
+font-family: 'Exo', sans-serif;
